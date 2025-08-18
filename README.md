@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 <p align="justify">
-👋 Hi, I’m Ojan — a frontend developer passionate about crafting intuitive and responsive web applications. 
+👋 Hi, I’m Felda Fauzan — a frontend developer passionate about crafting intuitive and responsive web applications. 
 With a strong foundation in HTML, CSS, and JavaScript, I’m currently exploring React, Tailwind CSS, and backend technologies to grow into a full-stack developer. 
 I love solving problems, learning new technologies, and contributing to meaningful projects.
 </p>
